@@ -1,7 +1,9 @@
 # Tenserflow_Face_Recognition_2
 
 
-اخذت الكود من 
+   اخذت الكود من الجزء السابق اللي سويته 
+
+
 [Tenserflow_Face_Recognition_1](https://github.com/Rahaf-Aljadaani/Tenserflow_Face_Recognition_1)
 
 وعدلت عليه عشان ينتج لي ذي الصورة مع كتابة إسم الشخص اللي في الصورة بلون الأزرق 
